@@ -1,0 +1,12 @@
+[
+    { "brand": "Toyota", "model": "Camry", "value": 1000000, "quantity": 20, "imageUrl": "/images/cars/camry.jpg" },
+    { "brand": "Toyota", "model": "Corolla", "value": 800000, "quantity": 30, "imageUrl": "/images/cars/corolla.jpg" },
+    { "brand": "Toyota", "model": "RAV4", "value": 1200000, "quantity": 15, "imageUrl": "/images/cars/rav4.jpg" },
+    { "brand": "Honda", "model": "Civic", "value": 850000, "quantity": 25, "imageUrl": "/images/cars/civic.jpg" },
+    { "brand": "Honda", "model": "Accord", "value": 1100000, "quantity": 18, "imageUrl": "/images/cars/accord.jpg" },
+    { "brand": "Honda", "model": "CR-V", "value": 1300000, "quantity": 12, "imageUrl": "/images/cars/crv.jpg" },
+    { "brand": "BMW", "model": "3 Series", "value": 2000000, "quantity": 10, "imageUrl": "/images/cars/3series.jpg" },
+    { "brand": "BMW", "model": "5 Series", "value": 3000000, "quantity": 8, "imageUrl": "/images/cars/5series.jpg" },
+    { "brand": "BMW", "model": "X5", "value": 4000000, "quantity": 5, "imageUrl": "/images/cars/x5.jpg" }
+  ]
+  
