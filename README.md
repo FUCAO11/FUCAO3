@@ -8,7 +8,7 @@ The Car Market App allows the market owner to view a dashboard with car statisti
 
 ## URL
 
-https://fucao11.github.io/](https://fucao11.github.io/FUCAO3.github.io/
+https://fucao11.github.io/FUCAO3.github.io/
 
 ## Screenshots
 
