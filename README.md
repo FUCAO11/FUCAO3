@@ -12,7 +12,6 @@ https://fucao11.github.io/
 
 ## Screenshots
 
-<img width="1440" alt="1" src="https://github.com/user-attachments/assets/4308908b-76a7-4576-b7b9-e24cb1256a99">
 <img width="1440" alt="1 1" src="https://github.com/user-attachments/assets/3f109504-84e9-4e84-a2fa-3c1e40cb7381">
 <img width="1440" alt="2" src="https://github.com/user-attachments/assets/63be7f14-2af2-4f0e-911b-82b7bd837c12">
 <img width="1440" alt="2 1" src="https://github.com/user-attachments/assets/f663c437-119c-4b73-b5ea-eb611056b453">
